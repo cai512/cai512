@@ -1,11 +1,6 @@
-- 👋 嗨, 我是一个爱折腾的小白！
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-cai512/cai512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caixin&bg_color=1b6983&color=ebee20&line=c0a0be&point=2f2d53&area=true&hide_border=true)](https://github.com/cai512/cai512.github.io)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cai512&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**cai512/cai512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
